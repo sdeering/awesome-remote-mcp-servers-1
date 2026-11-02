@@ -2057,6 +2057,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Lorg Check](https://lorglabs.com) `https://api.lorglabs.com/mcp`
   [![Lorg Check MCP connector](https://glama.ai/mcp/connectors/com.lorglabs/lorg-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.lorglabs/lorg-check)
   🔐 - Signed safety checks before money moves on Base and Ethereum: token traps, rug funders, sanctions, address poisoning.
+- [MacroDataAPI](https://macrodataapi.com/mcp-server) `https://macrodataapi.com/mcp`
+  [![MacroDataAPI MCP connector](https://glama.ai/mcp/connectors/com.macrodataapi/macrodata/badges/score.svg)](https://glama.ai/mcp/connectors/com.macrodataapi/macrodata)
+  🔓 - Macro data for agents: CPI, payrolls, GDP, policy rates, yields, release calendar, vintages; free key or x402.
+
 - [Marcel Retraite](https://marcel-retraite.fr) `https://marcel-retraite.fr/mcp`
   [![Marcel Retraite MCP connector](https://glama.ai/mcp/connectors/fr.marcel-retraite/marcel/badges/score.svg)](https://glama.ai/mcp/connectors/fr.marcel-retraite/marcel)
   🔓 - Deterministic, sourced French tax and retirement calculations; information only, not advice.
